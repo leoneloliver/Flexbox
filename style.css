@@ -2,38 +2,31 @@
   margin: 0 auto;
   width: 90%;
 }
-
 .cards {
   list-style: none;
   margin: 0;
   padding: 0;
 }
-
 .cards li {
   border: 2px solid #000;
   border-radius:5px;
   background-color: #ccc;
   color: #fff;
 }
-
 .cards h2 {
   background-color: #333;
   margin: 0;
   padding: 10px;
 }
-
 .cards p {
   padding: 10px;
 }
-
 .flex {
   display: flex;
   flex-wrap: wrap;
   margin: 0 -10px;
 }
-
 .flex li {
   flex: 1 1 400px;
   margin: 10px;
 }
-
